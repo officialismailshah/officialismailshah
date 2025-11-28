@@ -13,7 +13,7 @@
 - 🎓 Graduating from Govt Municipal Graduate College
 - 💻 Cross Platform App Developer
 - 🌱 I’m currently learning **Backend** and **DevOps**
-- 🔭 I’m currently working on project **Alramsa**
+- 🔭 I’m currently working on project **Tawla**
 - ☕️ Coffee Lover 😎 Gym lover
 - 🇵🇰 Faisalabad, Punjab, Pakistan
 - 📱 (+92) 323 60 45 838
