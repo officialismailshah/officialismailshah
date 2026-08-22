@@ -1,6 +1,6 @@
 ![Profile views](https://komarev.com/ghpvc/?username=officialismailshah&label=Profile%20views&color=0e75b6&style=flat)
 
-[![Google Certified](https://img.shields.io/badge/Google_Certified-ID_D2EAF33LV-2979FF?logo=google&logoColor=ffffff)](https://learndigital.withgoogle.com/digitalgarage/validate-certificate-code)
+![Google Certified](https://img.shields.io/badge/Google_Certified-ID_D2EAF33LV-2979FF?logo=google&logoColor=ffffff)
 [![Certified Flutter Developer](https://img.shields.io/badge/Certified_Flutter_Developer-00B8D4?logo=flutter&logoColor=ffffff)](https://www.udemy.com/course/flutter-with-firebase/)
 
 <!-- [![Microsoft Ambassador](https://img.shields.io/badge/Microsoft-Ambassador-2962FF?logo=microsoft&logoColor=ffffff)](https://givemycertificate.com/verify/2011002321000380) [![GetX Contributor](https://img.shields.io/badge/GetX-Contributor-D500F9?logo=hack-the-box&logoColor=ffffff)](https://github.com/jonataslaw/getx/graphs/contributors) [![CSV Contributor](https://img.shields.io/badge/CSV-Contributor-D500F9?logo=hack-the-box&logoColor=ffffff)](https://github.com/close2/csv/graphs/contributors) -->
