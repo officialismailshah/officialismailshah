@@ -9,7 +9,7 @@
 
 <img align="right" alt="Developer officialismailshah" src="code.gif" width="500" height="320" />
 
-- 😄 Pronouns me as `/pro-es-ma-eil-sha/`
+- 😄 Pronounce my name as `/pro-es-ma-eil-sha/`
 - 🎓 Graduating from Govt Municipal Graduate College
 - 💻 Cross Platform App Developer
 - 🌱 I’m currently learning **Backend** and **DevOps**
@@ -47,12 +47,17 @@
 <img src="https://img.shields.io/badge/Chat-1877F2?style=for-the-badge&logo=Messenger&logoColor=ffffff"></a>
 <a href="https://wa.me/923236045838?text=%23Github">
 <img src="https://img.shields.io/badge/Chat-25D366?style=for-the-badge&logo=WhatsApp&logoColor=ffffff"></a>
-<a href="https://wa.me/923236045838?text=Thank%20you%20for%20supporting%20me%20%E2%9D%A4%0ABank%20Account%20Details%0ATitle%3A%20ISMAIL%20SHAH%0AIBAN%3A%PK23MEZN0004160105283884">
+<a href="https://wa.me/923236045838?text=Hi%20Ismail%2C%20I%27d%20like%20to%20support%20your%20work%20%E2%9D%A4">
 <img src="https://img.shields.io/badge/Support-Developer-784fff?style=for-the-badge&logo=buy-me-a-coffee&logoColor=ffffff"></a>
 </div>
 
 
 ## Recent Projects ⚡
+
+### Tawla *(Flutter Developer)* — in progress  
+- Currently in active development.  
+
+---
 
 ### Alramsa – Tutoring App *(Flutter Developer)*  
 - Developed a cross-platform tutoring app in **Flutter**, connecting students with tutors for real-time learning sessions.  
@@ -61,8 +66,28 @@
 
 ## 📱 Professional Projects 
 
+### Grocery Ghar – Customer Grocery & Medicine Delivery App *(Flutter Developer)*  
+- Built a customer ordering app with cart, checkout, address picking, and prescription slip uploads using **Flutter** and **Riverpod**.  
+- Implemented live order tracking over **Socket.IO**, pushing status events onto a **Google Maps** view with store, rider, and customer markers.  
+- Integrated **Dio** interceptors for cookie-based auth refresh, **Firebase Messaging** push alerts, and dev/prod flavors with **go_router** navigation.  
+
+---
+
+### Grocery Ghar Rider – Delivery Partner App *(Flutter Developer)*  
+- Built a rider delivery app with real-time order offers, live **GPS navigation**, COD cash ledger, and **Riverpod**-driven onboarding and document verification.  
+- Implemented **Socket.IO** offer streams with expiry countdowns and retraction, plus a **Dio** cookie-refresh interceptor collapsing concurrent 401s into one refresh.  
+- Integrated **google_maps_flutter** with the **Directions API** for road-snapped polylines, **geolocator** tracking, and **FCM** alerts with custom native channel sounds.  
+
+---
+
+### Grocery Ghar Manager – Store-Side Order Management App *(Flutter Developer)*  
+- Built the Grocery Ghar Manager app in **Flutter**, letting store staff accept live order offers, set prep times, assign staff and hand over orders.  
+- Implemented real-time order offers over **Socket.IO** with buffered event replay, reconnect gating and a looping **audioplayers** expiry alarm.  
+- Architected feature-first layers on **Riverpod** and **go_router**, with a **Dio** cookie-session interceptor that refreshes tokens and replays queued requests.  
+
+---
+
 ### Toque – Food Delivery System *(Flutter Developer)*  
-[![Google Play](https://img.shields.io/badge/Google_Play-00C853?logo=google-play&logoColor=ffffff)](PLAY_STORE_LINK) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?logo=app-store&logoColor=ffffff)](APP_STORE_LINK)  
 - Designed and developed a full-featured food delivery app using **Flutter**, with real-time order tracking, restaurant listings, and payment integration.  
 - Implemented **state management & backend APIs** for smooth cart operations, checkout, and user authentication.  
 - Deployed to **Google Play & App Store**, ensuring compliance with publishing policies and privacy guidelines.  
@@ -84,7 +109,6 @@
 ---
 
 ### PikApp *(Senior Flutter Developer)*  
-[![Google Play](https://img.shields.io/badge/Google_Play-00C853?logo=google-play&logoColor=ffffff)](PLAY_STORE_LINK) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?logo=app-store&logoColor=ffffff)](APP_STORE_LINK)  
 - A **school management solution** for parents, easing and securing the process of picking children up from school.  
 - Ensured children’s security while keeping parents informed on real-time status.  
 - Published to **Google Play & App Store**, with compliance to store policies and privacy guidelines.  
@@ -102,18 +126,18 @@
 >`Corona Virus` `COVID19` `Artificial Intelligence` `Machine Learning` `Flutter`
 <br>[![Android App](https://img.shields.io/badge/Android-App-00C853?logo=android&logoColor=ffffff)](https://github.com/UsamaSarwar/App-Store/releases/download/App-Store/alshaafi.apk) [![Website](https://img.shields.io/badge/Web-App-211F1F?logo=google-chrome&logoColor=ffffff)](https://alshaafi.web.app) -->
 
-> **Assignmento**<br>Tool that converts plain text to handwriting and exports the output as images or PDF files<br>[![Website](https://img.shields.io/badge/Web-App-FF3D00?logo=google-chrome&logoColor=ffffff)](https://assignmento.org) [![Made with Flutter](https://img.shields.io/badge/Made_with-JavaScript-f0db4f?logo=javascript&logoColor=ffffff)](https://flutter.dev)
+<!-- > **Assignmento**<br>Tool that converts plain text to handwriting and exports the output as images or PDF files<br>[![Website](https://img.shields.io/badge/Web-App-FF3D00?logo=google-chrome&logoColor=ffffff)](https://assignmento.org) [![Made with Flutter](https://img.shields.io/badge/Made_with-JavaScript-f0db4f?logo=javascript&logoColor=ffffff)](https://flutter.dev) -->
 
 
-> **Pakistan Live TV**<br>Live Broadcasting of Asian TV Channels<br>[![Website](https://img.shields.io/badge/Web-App-FF3D00?logo=google-chrome&logoColor=ffffff)](https://pakistanlive.tv) [![Android](https://img.shields.io/badge/Google_Play-00C853?logo=google-play&logoColor=ffffff)](https://play.google.com/store/apps/details?id=pakistanlive.tv) [![Made with Flutter](https://img.shields.io/badge/Made_with-Flutter-0175C2?logo=flutter&logoColor=ffffff)](https://flutter.dev)
+<!-- > **Pakistan Live TV**<br>Live Broadcasting of Asian TV Channels<br>[![Website](https://img.shields.io/badge/Web-App-FF3D00?logo=google-chrome&logoColor=ffffff)](https://pakistanlive.tv) [![Android](https://img.shields.io/badge/Google_Play-00C853?logo=google-play&logoColor=ffffff)](https://play.google.com/store/apps/details?id=pakistanlive.tv) [![Made with Flutter](https://img.shields.io/badge/Made_with-Flutter-0175C2?logo=flutter&logoColor=ffffff)](https://flutter.dev) -->
 
 <!-- >**AlphaRanker**<br>Tool that ranks social media profiles in serach engines<br>[![Website](https://img.shields.io/badge/Web-App-FF3D00?logo=google-chrome&logoColor=ffffff)](https://alpharanker.com/) [![Android](https://img.shields.io/badge/Google_Play-00C853?logo=google-play&logoColor=ffffff)](https://play.google.com/store/apps/details?id=usamasarwar.alpharanker) [![Made with Flutter](https://img.shields.io/badge/Made_with-Flutter-0175C2?logo=flutter&logoColor=ffffff)](https://flutter.dev) -->
 
 <!-- >**MiniMax and Alpha-BetaPruning Simulator**<br>This tool builds with a search algorithm that seeks to decrease the number of nodes that are evaluated by the minimax algorithm in its search tree.<br>[![Website](https://img.shields.io/badge/Web-App-FF3D00?logo=google-chrome&logoColor=ffffff)](https://usamasarwar.github.io/minimax-simulator/index.html) [![Made with Flutter](https://img.shields.io/badge/Made_with-PHP-0175C2?logo=php&logoColor=ffffff)](https://www.php.net/) -->
 
-### Open-Source Projects ✨
+<!-- ### Open-Source Projects ✨ -->
 
-> **FlutterCapsule**<br>Cheatsheet for Flutter Developers<br>[![Website](https://img.shields.io/badge/Web-App-FF3D00?logo=google-chrome&logoColor=ffffff)](http://usamasarwar.github.io/fluttercapsule/) [![Source Code](https://img.shields.io/badge/Source-212121?logo=github&logoColor=ffffff)](https://github.com/UsamaSarwar/fluttercapsule) [![Made with Flutter](https://img.shields.io/badge/Made_for-FlutterDev-0175C2?logo=flutter&logoColor=ffffff)](https://flutter.dev)
+<!-- > **FlutterCapsule**<br>Cheatsheet for Flutter Developers<br>[![Website](https://img.shields.io/badge/Web-App-FF3D00?logo=google-chrome&logoColor=ffffff)](http://usamasarwar.github.io/fluttercapsule/) [![Source Code](https://img.shields.io/badge/Source-212121?logo=github&logoColor=ffffff)](https://github.com/UsamaSarwar/fluttercapsule) [![Made with Flutter](https://img.shields.io/badge/Made_for-FlutterDev-0175C2?logo=flutter&logoColor=ffffff)](https://flutter.dev) -->
 
 <!-- >**Nina News App**<br>Iraqi National News Agency App<br>[![Website](https://img.shields.io/badge/Web-App-FF3D00?logo=google-chrome&logoColor=ffffff)](https://usamasarwar.github.io/flutter_news_app) [![Android](https://img.shields.io/badge/Android-00C853?logo=android&logoColor=ffffff)](https://github.com/UsamaSarwar/flutter_news_app/releases/tag/v1.0.0) [![Source Code](https://img.shields.io/badge/Source_Code-212121?logo=github&logoColor=ffffff)](https://github.com/UsamaSarwar/flutter_news_app) [![Made with Flutter](https://img.shields.io/badge/Made_with-Flutter-0175C2?logo=flutter&logoColor=ffffff)](https://flutter.dev) -->
 
@@ -130,34 +154,19 @@
 ## ⚡ Tech Stack & Tools  
 
 **Languages & Frameworks**  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)  
-![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
 
 **Databases**  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)  
-![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
 
 **APIs & Protocols**  
-![REST](https://img.shields.io/badge/REST-02569B?logo=rest&logoColor=white)  
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white)  
-![gRPC](https://img.shields.io/badge/gRPC-1B5E20?logo=grpc&logoColor=white)  
-![Protobuf](https://img.shields.io/badge/Protobuf-4285F4?logo=google&logoColor=white)  
+![REST](https://img.shields.io/badge/REST_API-02569B?logo=swagger&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white) ![gRPC](https://img.shields.io/badge/gRPC-1B5E20?logo=google&logoColor=white) ![Protobuf](https://img.shields.io/badge/Protobuf-4285F4?logo=google&logoColor=white) ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?logo=socketdotio&logoColor=white) ![Dio](https://img.shields.io/badge/Dio-0175C2?logo=dart&logoColor=white)
 
-**State Management**  
-![Provider](https://img.shields.io/badge/Provider-02569B?logo=flutter&logoColor=white)  
-![Riverpod](https://img.shields.io/badge/Riverpod-0F9D58?logo=flutter&logoColor=white)  
-![GetX](https://img.shields.io/badge/GetX-FF5722?logo=flutter&logoColor=white)  
-![Bloc](https://img.shields.io/badge/Bloc-7952B3?logo=flutter&logoColor=white)  
+**State Management & Routing**  
+![Provider](https://img.shields.io/badge/Provider-02569B?logo=flutter&logoColor=white) ![Riverpod](https://img.shields.io/badge/Riverpod-0F9D58?logo=flutter&logoColor=white) ![GetX](https://img.shields.io/badge/GetX-FF5722?logo=flutter&logoColor=white) ![Bloc](https://img.shields.io/badge/Bloc-7952B3?logo=flutter&logoColor=white) ![go_router](https://img.shields.io/badge/go__router-43A047?logo=flutter&logoColor=white)
 
 **Backend & DevOps**  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)  
-![CI/CD](https://img.shields.io/badge/CI/CD-4285F4?logo=githubactions&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI/CD-4285F4?logo=githubactions&logoColor=white)
 
 **Other Skills**  
 Authentication & Authorization • Payment Integration • Real-time Communication • System Design (in progress) 
