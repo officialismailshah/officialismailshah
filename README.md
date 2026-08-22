@@ -13,7 +13,7 @@
 - 🎓 Graduating from Govt Municipal Graduate College
 - 💻 Cross Platform App Developer
 - 🌱 I’m currently learning **Backend** and **DevOps**
-- 🔭 I’m currently working on project **Tawla**
+- 🔭 I’m currently working on project **Grocery Ghar**
 - ☕️ Coffee Lover 😎 Gym lover
 - 🇵🇰 Faisalabad, Punjab, Pakistan
 - 📱 (+92) 323 60 45 838
@@ -54,18 +54,6 @@
 
 ## Recent Projects ⚡
 
-### Tawla *(Flutter Developer)* — in progress  
-- Currently in active development.  
-
----
-
-### Alramsa – Tutoring App *(Flutter Developer)*  
-- Developed a cross-platform tutoring app in **Flutter**, connecting students with tutors for real-time learning sessions.  
-
----
-
-## 📱 Professional Projects 
-
 ### Grocery Ghar – Customer Grocery & Medicine Delivery App *(Flutter Developer)*  
 - Built a customer ordering app with cart, checkout, address picking, and prescription slip uploads using **Flutter** and **Riverpod**.  
 - Implemented live order tracking over **Socket.IO**, pushing status events onto a **Google Maps** view with store, rider, and customer markers.  
@@ -84,6 +72,18 @@
 - Built the Grocery Ghar Manager app in **Flutter**, letting store staff accept live order offers, set prep times, assign staff and hand over orders.  
 - Implemented real-time order offers over **Socket.IO** with buffered event replay, reconnect gating and a looping **audioplayers** expiry alarm.  
 - Architected feature-first layers on **Riverpod** and **go_router**, with a **Dio** cookie-session interceptor that refreshes tokens and replays queued requests.  
+
+---
+
+## 📱 Professional Projects 
+
+### Tawla *(Flutter Developer)*  
+- Built a cross-platform mobile app in **Flutter**.  
+
+---
+
+### Alramsa – Tutoring App *(Flutter Developer)*  
+- Developed a cross-platform tutoring app in **Flutter**, connecting students with tutors for real-time learning sessions.  
 
 ---
 
